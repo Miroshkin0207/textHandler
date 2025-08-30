@@ -1,0 +1,49 @@
+﻿body {
+    background-color: rgb(26, 26, 29);
+    color: white
+}
+
+button {
+    background-color: black;
+    color: rgb(19, 65, 142)
+}
+
+#back {
+    font-size: 40px;
+    z-index: 1;
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 20px
+}
+
+.text {
+    text-align: center
+}
+
+textarea {
+    font-size: 25px;
+    width: 750px;
+    height: 400px;
+    border: solid 3px blue;
+    position: relative;
+    bottom: 20px 
+}
+
+.stats {
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 15px
+}
+
+.stats h2 {
+    margin: 0
+}
