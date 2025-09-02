@@ -1,6 +1,7 @@
 ﻿body {
     background-color: rgb(26, 26, 29);
-    color: white
+    color: white;
+    font-family: Tahoma
 }
 
 button {
@@ -51,8 +52,7 @@ textarea {
 
     textarea {
         width: 750px;
-        height: 400px;
-        bottom: 20px
+        height: 400px
     }
 
     .stats {
